@@ -7,7 +7,7 @@ on:
     - dev
 
 env:
-  AZURE_WEBAPP_NAME: current-times-app
+  AZURE_WEBAPP_NAME: current-time-app
   AZURE_WEBAPP_PACKAGE_PATH: "./publish"
 
 jobs:
